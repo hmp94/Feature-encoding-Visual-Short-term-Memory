@@ -21,6 +21,8 @@ Recent work has identified **fragile visual short-term memory (fVSTM)** with dis
 - **Outperforms WM** in change-detection tasks
 - **Object-based**: harder to recall if the encoding process is interfered with by a similar object rather than a different object (Pinto et al., 2013)
 
+---
+
 ### ‼️ Research Gap
 Little is known about how detailed the features of those objects are encoded:
 - Most existing work compares objects that differ **drastically** in their features (e.g., a pink pig vs a red motorbike), potentially making detection easier
