@@ -115,7 +115,7 @@ wrong = visual.TextStim(
 key_resp = keyboard.Keyboard()
 trial_clock = core.Clock()
 
-#Hiding mouse
+# Hiding mouse
 mouse = event.Mouse(visible=False, win=win)
 mouse.setPos((10000, 10000))  # move far off screen
 
@@ -164,7 +164,6 @@ accuracy_change = []
 accuracy_feat = []
 reaction_times = []
 
-# ------- EXPERIMENT START FROM THIS LINE -------
 # ---- Introduction + Instruction ----
 
 word_size = 30
@@ -241,6 +240,8 @@ ready = visual.TextStim(
     wrapWidth=1200,
     bold=True
 )
+
+# ------- EXPERIMENT START FROM THIS LINE -------
 # Draw all elements
 welcome.draw()
 instruction_stim.draw()
