@@ -1,12 +1,12 @@
 # Fragile Visual Short-Term Memory: Feature Encodings of Shapes and Colors
 
-## 📋 Research Question
+##  Research Question
 
 **Does fragile visual short-term memory preserve the detail of higher-order features (e.g., shapes, colors) more accurately than working memory?**
 
 ---
 
-## 🧠 Background & Relevance
+##  Background & Relevance
 
 Every time we look at a completely new scene, we feel as if we can sense every detail at once; however, our feeling of "seeing everything" is considered an illusion since we have limited capacity to report it when closing our eyes (Naccache, 2018).
 
@@ -23,14 +23,14 @@ Recent work has identified **fragile visual short-term memory (fVSTM)** with dis
 
 ---
 
-### ‼️ Research Gap
+###  Research Gap
 Little is known about how detailed the features of those objects are encoded:
 - Most existing work compares objects that differ **drastically** in their features (e.g., a pink pig vs a red motorbike), potentially making detection easier
 - Challenging ideas suggest fVSTM mostly contains **gist-like information**—like an instant flash and blurry images (Block, 2011)—instead of a clear picture
 
 ---
 
-## 💡 Hypothesis
+##  Hypothesis
 
 1. Since fVSTM is **object-based**, the elementary features (e.g., shape, color) of the object should already be bound and encoded (Logie et al., 2008) to form an object. Therefore, **feature information is already well-encoded by fVSTM**.
 
@@ -42,7 +42,7 @@ Little is known about how detailed the features of those objects are encoded:
 
 ---
 
-## 🎯 Predictions
+##  Predictions
 
 This study expects to replicate previous results that **fVSTM is more accurate and has faster response** at detection compared to WM. Furthermore:
 
@@ -51,7 +51,7 @@ This study expects to replicate previous results that **fVSTM is more accurate a
 
 ---
 
-## 🔬 Methods
+##  Methods
 
 ### Design
 **Within-subjects design** adapted from Pinto et al. (2013) and Sligte et al. (2008)
@@ -68,7 +68,7 @@ This study expects to replicate previous results that **fVSTM is more accurate a
 
 ---
 
-## 🧪 Experimental Procedure
+##  Experimental Procedure
 
 ### Blocks and Trials
 - **1 practice block** (10 trials)
@@ -112,7 +112,7 @@ First display (250 ms) → Blank (1000 ms) → Second display (changed/unchanged
 
 ---
 
-## 📚 References
+##  References
 
 - Arenillas, J. F., Molina, C. A., Chacon, P., Egido, J. A., & Alvarez, A. (2003). Cerebral microbleeds and intracerebral haemorrhage in patients receiving antithrombotic therapy. *The Lancet Neurology, 2*(11), 692–697. https://doi.org/10.1016/S1474-4422(02)00236-3
 
