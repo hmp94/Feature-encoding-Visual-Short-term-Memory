@@ -4,7 +4,6 @@
 
 **Does fragile visual short-term memory preserve the detail of higher-order features (e.g., shapes, colors) more accurately than working memory?**
 
----
 
 ##  Background & Relevance
 
@@ -21,14 +20,12 @@ Recent work has identified **fragile visual short-term memory (fVSTM)** with dis
 - **Outperforms WM** in change-detection tasks
 - **Object-based**: harder to recall if the encoding process is interfered with by a similar object rather than a different object (Pinto et al., 2013)
 
----
 
 ###  Research Gap
 Little is known about how detailed the features of those objects are encoded:
 - Most existing work compares objects that differ **drastically** in their features (e.g., a pink pig vs a red motorbike), potentially making detection easier
 - Challenging ideas suggest fVSTM mostly contains **gist-like information**—like an instant flash and blurry images (Block, 2011)—instead of a clear picture
 
----
 
 ##  Hypothesis
 
@@ -40,7 +37,6 @@ Little is known about how detailed the features of those objects are encoded:
 
 4. With practice, participants might also improve at feature and change detection (Arenillas et al., 2003).
 
----
 
 ##  Predictions
 
@@ -49,7 +45,6 @@ This study expects to replicate previous results that **fVSTM is more accurate a
 - fVSTM will show **higher accuracy** and **faster reaction times** for both shape and color detection than WM
 - Participants will generally become **more accurate and react faster** due to practice effects
 
----
 
 ##  Methods
 
@@ -66,7 +61,6 @@ This study expects to replicate previous results that **fVSTM is more accurate a
    - For fVSTM: Measured from the onset of the second list
    - For WM: Measured from the disappearance of the cue
 
----
 
 ##  Experimental Procedure
 
@@ -137,8 +131,6 @@ First display (250 ms) → Blank (1000 ms) → Second display (changed/unchanged
 - Sligte, I. G., Scholte, H. S., & Lamme, V. A. F. (2008). Are there multiple Visual Short-Term Memory Stores? *PLoS ONE, 3*(2), e1699. https://doi.org/10.1371/journal.pone.0001699
 
 - Vandenbroucke, A. R., Sligte, I. G., & Lamme, V. A. (2011). Manipulations of attention dissociate fragile visual short-term memory from visual working memory. *Neuropsychologia, 49*(6), 1559–1568. https://doi.org/10.1016/j.neuropsychologia.2010.12.044
-
----
 
 ## 📊 Project Status
 
