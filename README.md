@@ -48,7 +48,8 @@ This experiment tests whether fVSTM encodes **shape** (square vs. circle) and **
 
 Eight items (squares and circles, green and blue) arranged on an imaginary circle (r = 300 px). Each feature type appears at least 3 times. No three adjacent items share the same shape or color.
 
-<img width="1616" height="400" alt="image" src="https://github.com/user-attachments/assets/dd28fe18-2ffe-4299-89b5-2277c902a57d" />
+<img width="1598" height="392" alt="image" src="https://github.com/user-attachments/assets/15aad848-756a-4ce5-93b3-02ddeee967aa" />
+
 
 
 | Property | Value |
