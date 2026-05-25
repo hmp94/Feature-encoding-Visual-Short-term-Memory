@@ -11,10 +11,6 @@
   <i>Does fragile VSTM preserve the detail of higher-order features more accurately than working memory?</i>
 </p>
 
-<p align="center">
-  <a href="https://hmp94.github.io">Portfolio</a> · <a href="https://github.com/hmp94">GitHub</a>
-</p>
-
 ---
 
 ## Overview
@@ -35,9 +31,6 @@ This experiment tests whether fVSTM encodes **shape** (square vs. circle) and **
 
 2. Prior work shows fVSTM encodes low-level features like orientation (Pinto et al., 2017). This study targets features formed later along the visual hierarchy (V2, V4, IT): **shapes and colors** (Perry & Fallah, 2014).
 
-3. Feature encoding in fVSTM will be **more accurate** and **faster** than in WM.
-
-4. Practice effects will improve detection across blocks.
 
 ---
 
@@ -146,8 +139,6 @@ A dialog box will prompt for participant ID, gender, age, and session number. Da
 
 ## References
 
-<details>
-<summary>Click to expand</summary>
 
 - Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences, 15*(12), 567-575.
 - Logie, R. H., Brockmole, J. R., & Vandenbroucke, A. R. E. (2008). Bound feature combinations in visual short-term memory are fragile but influence long-term learning. *Visual Cognition, 17*(1-2), 160-179.
@@ -158,7 +149,6 @@ A dialog box will prompt for participant ID, gender, age, and session number. Da
 - Sligte, I. G. (2010). Detailed sensory memory, sloppy working memory. *Frontiers in Psychology, 1*.
 - Sligte, I. G., Scholte, H. S., & Lamme, V. A. F. (2008). Are there multiple Visual Short-Term Memory Stores? *PLoS ONE, 3*(2), e1699.
 
-</details>
 
 ---
 
